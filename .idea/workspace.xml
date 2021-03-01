@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a863495a-f97e-419e-ae0f-6576e45fb703" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1p1jiRGwFtyhcxPifcJpDzl2r3r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/apptests/testsuite" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/drivers" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="apptests.testcase" />
+      <recent name="imdb.app.pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/apptests/testsuite" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/aleksanderburzynski/x/imdb.com/src/test/java/apptests/testsuite/IMDbSuiteTest.xml">
+    <configuration name="IMDbGenreSortingTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="imdb.com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apptests.testcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apptests.testcase" />
+      <option name="MAIN_CLASS_NAME" value="apptests.testcase.IMDbGenreSortingTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/aleksanderburzynski/x/imdb.com/src/test/java/apptests/testsuite/IMDbSuiteTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="imdb.com" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/apptests/testsuite/IMDbSuiteTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/aleksanderburzynski/x/imdb.com/src/test/java/apptests/testsuite/MoviesByGenreTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="imdb.com" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/apptests/testsuite/MoviesByGenreTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/aleksanderburzynski/x/imdb.com/src/test/java/apptests/testsuite/TopFilmsTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="imdb.com" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/apptests/testsuite/TopFilmsTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/aleksanderburzynski/x/imdb.com/src/test/java/apptests/testsuite/IMDbSuiteTest.xml" />
+        <item itemvalue="TestNG./Users/aleksanderburzynski/x/imdb.com/src/test/java/apptests/testsuite/MoviesByGenreTest.xml" />
+        <item itemvalue="TestNG./Users/aleksanderburzynski/x/imdb.com/src/test/java/apptests/testsuite/TopFilmsTest.xml" />
+        <item itemvalue="TestNG.IMDbGenreSortingTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a863495a-f97e-419e-ae0f-6576e45fb703" name="Default Changelist" comment="" />
+      <created>1614357619403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614357619403</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="711" y="361" width="882" height="571" key="#xdebugger.evaluate" timestamp="1614451060620">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state x="711" y="361" width="882" height="571" key="#xdebugger.evaluate/0.23.1792.1013@0.23.1792.1013" timestamp="1614451060620" />
+    <state width="1750" height="178" key="GridCell.Tab.0.bottom" timestamp="1614589930564">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="1750" height="178" key="GridCell.Tab.0.bottom/0.23.1792.1013@0.23.1792.1013" timestamp="1614589930564" />
+    <state width="1750" height="399" key="GridCell.Tab.0.bottom/0.23.1792.1015@0.23.1792.1015" timestamp="1614512610474" />
+    <state width="1750" height="178" key="GridCell.Tab.0.center" timestamp="1614589930564">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="1750" height="178" key="GridCell.Tab.0.center/0.23.1792.1013@0.23.1792.1013" timestamp="1614589930564" />
+    <state width="1750" height="399" key="GridCell.Tab.0.center/0.23.1792.1015@0.23.1792.1015" timestamp="1614512610473" />
+    <state width="1750" height="178" key="GridCell.Tab.0.left" timestamp="1614589930563">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="1750" height="178" key="GridCell.Tab.0.left/0.23.1792.1013@0.23.1792.1013" timestamp="1614589930563" />
+    <state width="1750" height="399" key="GridCell.Tab.0.left/0.23.1792.1015@0.23.1792.1015" timestamp="1614512610472" />
+    <state width="1750" height="178" key="GridCell.Tab.0.right" timestamp="1614589930564">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="1750" height="178" key="GridCell.Tab.0.right/0.23.1792.1013@0.23.1792.1013" timestamp="1614589930564" />
+    <state width="1750" height="399" key="GridCell.Tab.0.right/0.23.1792.1015@0.23.1792.1015" timestamp="1614512610474" />
+    <state width="1750" height="329" key="GridCell.Tab.1.bottom" timestamp="1614585105292">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="1750" height="329" key="GridCell.Tab.1.bottom/0.23.1792.1013@0.23.1792.1013" timestamp="1614585105292" />
+    <state width="1750" height="329" key="GridCell.Tab.1.center" timestamp="1614585105292">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="1750" height="329" key="GridCell.Tab.1.center/0.23.1792.1013@0.23.1792.1013" timestamp="1614585105292" />
+    <state width="1750" height="329" key="GridCell.Tab.1.left" timestamp="1614585105291">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="1750" height="329" key="GridCell.Tab.1.left/0.23.1792.1013@0.23.1792.1013" timestamp="1614585105291" />
+    <state width="1750" height="329" key="GridCell.Tab.1.right" timestamp="1614585105292">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="1750" height="329" key="GridCell.Tab.1.right/0.23.1792.1013@0.23.1792.1013" timestamp="1614585105292" />
+    <state x="597" y="284" width="598" height="490" key="find.popup" timestamp="1614589517900">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state x="597" y="284" width="598" height="490" key="find.popup/0.23.1792.1013@0.23.1792.1013" timestamp="1614589517900" />
+    <state x="561" y="247" width="670" height="676" key="search.everywhere.popup" timestamp="1614451718160">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state x="561" y="247" width="670" height="676" key="search.everywhere.popup/0.23.1792.1013@0.23.1792.1013" timestamp="1614451718160" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/imdb/app/pages/TopRatedMoviesPage.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

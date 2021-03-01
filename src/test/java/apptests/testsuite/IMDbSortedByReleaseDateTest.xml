@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="IMDb Sorted by Release Date test" verbose="1">
+    <test name ="IMDb Sorted by Release Date test">
+        <classes>
+            <class name="apptests.testcase.IMDbSortedByReleaseDateTest" />
+        </classes>
+    </test>
+</suite>

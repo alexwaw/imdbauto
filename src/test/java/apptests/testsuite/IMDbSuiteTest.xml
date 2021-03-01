@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="IMDb test cases" verbose="1">
+    <suite-files>
+        <suite-file path="IMDbSortedByReleaseDateTest.xml"></suite-file>
+        <suite-file path="IMDbSortedByIMDbRatingTest.xml"></suite-file>
+        <suite-file path="MoviesByGenreTest.xml"></suite-file>
+    </suite-files>
+</suite>
