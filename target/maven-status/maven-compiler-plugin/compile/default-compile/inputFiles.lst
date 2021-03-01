@@ -1,9 +1,0 @@
-/Users/aleksanderburzynski/x/imdb.com/src/main/java/imdb/app/drivers/configuration/BaseDriverConfiguration.java
-/Users/aleksanderburzynski/x/imdb.com/src/main/java/imdb/app/base/BasePageFactory.java
-/Users/aleksanderburzynski/x/imdb.com/src/main/java/imdb/app/pages/TopRatedMoviesByGenrePage.java
-/Users/aleksanderburzynski/x/imdb.com/src/main/java/imdb/app/base/ReadDataFromJSON.java
-/Users/aleksanderburzynski/x/imdb.com/src/main/java/imdb/app/base/BaseTest.java
-/Users/aleksanderburzynski/x/imdb.com/src/main/java/imdb/app/drivers/configuration/ChromeDriverConfiguration.java
-/Users/aleksanderburzynski/x/imdb.com/src/main/java/imdb/app/base/TestNGListener.java
-/Users/aleksanderburzynski/x/imdb.com/src/main/java/imdb/app/base/BaseMethods.java
-/Users/aleksanderburzynski/x/imdb.com/src/main/java/imdb/app/pages/TopRatedMoviesPage.java
