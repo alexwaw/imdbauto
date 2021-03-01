@@ -1,4 +1,4 @@
-## Friday test automation
+## IMDB test automation
 
 ### 1. Description of project
 1. Project contains auto tests for https://www.imdb.com/chart/top.
