@@ -1,4 +1,4 @@
-## IMDB test automation
+## IMDB tests automation
 
 ### 1. Description of project
 1. Project contains auto tests for https://www.imdb.com/chart/top.
